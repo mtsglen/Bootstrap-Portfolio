@@ -1,0 +1,54 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: WhiteSmoke;
+}
+
+header {
+  border-bottom: 5px solid CadetBlue;
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: LightSlateGrey;
+  color: GhostWhite;
+  /* height: 50px; */
+}
+
+.header {
+  color: GhostWhite;
+  background-color: LightSlateGrey;
+  font-family: Apple Chancery, cursive;
+  font-size: 20px;
+}
+
+.nav a {
+  color: GhostWhite;
+}
+
+a:link, a:visited, {
+  color: GhostWhite;
+}
+
+.panel-title {
+  font-size: 24px;
+  text-align: center;
+}
+
+.connect i {
+ text-align: center;
+
+}
+
+.portfolio p {
+  background-color:rgba(109,156,159, 0.7);
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 50px;
+}
+
+.navbar-fixed-bottom {
+  background-color: LightSlateGrey;
+  border-top: 5px solid CadetBlue;
+  text-align: center;
+  color: GhostWhite;
+  font-family : Verdana, Geneva, sans-serif;
+  height: 30px;
+}
